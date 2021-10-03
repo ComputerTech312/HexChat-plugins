@@ -1,0 +1,2 @@
+# HexChat-plugins
+HexChat Plugins
